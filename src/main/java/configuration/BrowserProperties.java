@@ -3,8 +3,8 @@ package configuration;
 public class BrowserProperties {
 
 
-    public static final String yandexBrowser = "D:\\selenium\\yandexdriver\\bin\\yandexdriver.exe";
-    public static final String chromeBrowser = "D:\\selenium\\chromedriver_win32\\bin\\chromedriver.exe";
+    public static final String yandexBrowser = "PATH TO YANDEXDRIVER";
+    public static final String chromeBrowser = "PATH TO CHROMEDRIVER";
 
 
     public static void setBrowser(String browser){
